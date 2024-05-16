@@ -1,2 +1,2 @@
-# SNAKgame-
+# SNAKegame-
 java
